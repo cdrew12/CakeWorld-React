@@ -1,0 +1,40 @@
+.cake-img {
+}
+
+.cake-details {
+    text-align: left;
+    color: #222;
+}
+
+.cake-title {
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: left;
+    color: #222;
+}
+
+.cake-title a {
+    color: #222;
+}
+
+.cake-wrapper {
+    border-top: 2px solid rgb(60, 184, 129);
+    padding: 1.5% 0;
+    margin-top: 10px;
+    padding: 5px;
+    margin: 5%;
+}
+
+.cake-detail {
+    height: 100% !important;
+    vertical-align: middle;
+}
+
+.cake-controls {
+    text-align: right;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
