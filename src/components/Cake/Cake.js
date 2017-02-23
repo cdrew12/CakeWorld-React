@@ -17,7 +17,7 @@ const Cake = ({ cake, onEditClick }) => (
 				</div>
 				<br />
 				<div className='pure-u-1 cake-img'>
-					<img src={cake.image} className='pure-img' alt='Cake Photo' />
+					<img src={cake.image} className='pure-img' alt='a cake' />
 				</div>
 			</div>
 		</div>
