@@ -8,6 +8,12 @@ Name: Chris Drew<br>
 Email: chrisdrew[AT]outlook.com<br>
 Telephone: [Zero]7598 261 240<br>
 
+## Hosted Demo
+
+For convenience, you can access the app directly:<br>
+either here: [https://dvxhr1lp2ytew.cloudfront.net/](https://dvxhr1lp2ytew.cloudfront.net/)<br>
+or here: [http://cakeworld.christopherdrew.co.uk/](http://cakeworld.christopherdrew.co.uk/)
+
 ## About the App
 
 This demo app will use React.js to render a list of cakes retrieved from a remote server in JSON format.
